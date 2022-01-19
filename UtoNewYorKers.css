@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'UtoNewYorKers';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/utoNewyorkers/UtoNewYorKers.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/utoNewyorkers/UtoNewYorKers.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoNewyorkers/UtoNewYorKers.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoNewyorkers/UtoNewYorKers.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/utoNewyorkers/UtoNewYorKers.ttf') format("truetype");
+    font-display: swap;
+}
